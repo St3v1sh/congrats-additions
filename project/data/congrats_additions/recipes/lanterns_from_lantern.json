@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "item": "minecraft:lantern"
+        },
+        "X": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "pattern": [
+        "XXX",
+        "X#X",
+        "XXX"
+    ],
+    "result": {
+        "count": 10,
+        "item": "minecraft:lantern"
+    },
+    "show_notification": true
+}

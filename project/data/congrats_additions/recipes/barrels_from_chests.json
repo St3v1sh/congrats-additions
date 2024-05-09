@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "minecraft:chest"
+        },
+        {
+            "item": "minecraft:chest"
+        },
+        {
+            "item": "minecraft:chest"
+        },
+        {
+            "item": "minecraft:chest"
+        },
+        {
+            "item": "minecraft:chest"
+        },
+        {
+            "item": "minecraft:chest"
+        },
+        {
+            "item": "minecraft:chest"
+        }
+    ],
+    "result": {
+        "count": 8,
+        "item": "minecraft:barrel"
+    }
+}

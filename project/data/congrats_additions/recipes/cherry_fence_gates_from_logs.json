@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_fence_gate",
+  "key": {
+    "#": {
+      "item": "minecraft:cherry_planks"
+    },
+    "W": {
+      "tag": "minecraft:cherry_logs"
+    }
+  },
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:cherry_fence_gate"
+  },
+  "show_notification": true
+}

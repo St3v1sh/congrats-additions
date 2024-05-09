@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_fence_gate",
+  "key": {
+    "#": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "W": {
+      "tag": "minecraft:mangrove_logs"
+    }
+  },
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:mangrove_fence_gate"
+  },
+  "show_notification": true
+}

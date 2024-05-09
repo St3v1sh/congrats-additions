@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_fence",
+  "key": {
+    "#": {
+      "tag": "minecraft:dark_oak_logs"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:dark_oak_fence"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "key": {
+        "I": {
+            "item": "minecraft:repeater"
+        },
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "pattern": [
+        "X",
+        "#",
+        "I"
+    ],
+    "result": {
+        "item": "minecraft:comparator"
+    },
+    "show_notification": true
+}

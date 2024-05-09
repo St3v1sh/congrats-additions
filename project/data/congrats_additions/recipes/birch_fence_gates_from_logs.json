@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_fence_gate",
+  "key": {
+    "#": {
+      "item": "minecraft:birch_planks"
+    },
+    "W": {
+      "tag": "minecraft:birch_logs"
+    }
+  },
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:birch_fence_gate"
+  },
+  "show_notification": true
+}

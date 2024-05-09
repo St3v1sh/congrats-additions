@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_trapdoor",
+  "key": {
+    "#": {
+      "tag": "minecraft:mangrove_logs"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:mangrove_trapdoor"
+  },
+  "show_notification": true
+}

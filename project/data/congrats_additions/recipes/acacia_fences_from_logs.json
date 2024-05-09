@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_fence",
+  "key": {
+    "#": {
+      "tag": "minecraft:acacia_logs"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:acacia_fence"
+  },
+  "show_notification": true
+}

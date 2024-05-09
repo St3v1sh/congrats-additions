@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_fence",
+  "key": {
+    "#": {
+      "tag": "minecraft:warped_stems"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:warped_fence"
+  },
+  "show_notification": true
+}
